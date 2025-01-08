@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Currently pursuing my Advanced diploma in Computer Systems Technology at Sheridan College, Canada. I have a strong foundation in Python, SQL, JavaScript, HTML, and CSS. I'm also actively engaged in machine learning projects to further enhance my skills.
 
-*   🌍  I'm based in Bhopal
+*   🌍  I'm based in Brampton
 *   ✉️  You can contact me at [ayaanullhasan1499@gmail.com](mailto:ayaanullhasan1499@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects (ML)
 *   ⚡  When I'm not coding, I'm on the football field
